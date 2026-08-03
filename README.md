@@ -3,11 +3,6 @@
 I build and run software alone, with a team of AI agents — a one-person
 company in Karlsruhe, Germany.
 
-**The rule everything follows:** AI extracts, code calculates, the human
-decides. An LLM in my stack is never allowed to invent a price or send an
-email. It prepares; deterministic code checks; I approve what leaves the
-building.
-
 ## What that looks like in practice
 
 - **[offerre](https://offerre.de)** — quoting software for German SMBs.
