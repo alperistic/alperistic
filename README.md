@@ -17,14 +17,6 @@ company in Karlsruhe, Germany.
   free viewer for German e-invoices (XRechnung / ZUGFeRD), because opening
   an e-invoice shouldn't require buying software.
 
-## How I work
-
-Agentic development is my daily production workflow, not a demo — Claude
-Code writes most of my code, and every change still goes through review,
-tests and a deploy process with health checks and rollback. Current honest
-state of my agent team: 13 roles specified, 4 running for real, 0
-autonomous. I publish that column instead of hiding it; the gap is the
-interesting part.
 
 ---
 
